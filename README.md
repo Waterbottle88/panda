@@ -1,11 +1,10 @@
 # PandaTeam Test Task
 Дизайна для ответов не делал
 
-Есть xdebug
-
 Запускается из под докера скриптом который запускает крон на скрипт
 
-
+`chmod +x ./server.sh`
+`./server.sh`
 
 Сайт доступен по URL http://localhost
 
